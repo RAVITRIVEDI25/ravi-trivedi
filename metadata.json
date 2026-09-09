@@ -1,0 +1,6 @@
+{
+  "name": "Audit Working Paper Generator",
+  "description": "Prepare and export audit working papers in Word (.docx) format with checklists for Balance Sheet, Profit and Loss, Compliance, and Other Audit Areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
